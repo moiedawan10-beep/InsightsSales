@@ -1,0 +1,108 @@
+{
+  "Rows": [
+    [
+      {
+        "SKU_NAME": "Family Feast",
+        "TotalOrders": 271,
+        "GrossAmount": 294035
+      },
+      {
+        "SKU_NAME": "Weekend Bucket",
+        "TotalOrders": 258,
+        "GrossAmount": 342108
+      },
+      {
+        "SKU_NAME": "Pizza Party",
+        "TotalOrders": 236,
+        "GrossAmount": 404976
+      },
+      {
+        "SKU_NAME": "Burger Duo",
+        "TotalOrders": 235,
+        "GrossAmount": 446735
+      },
+      {
+        "SKU_NAME": "Sharing Deal",
+        "TotalOrders": 198,
+        "GrossAmount": 204138
+      },
+      {
+        "SKU_NAME": "BBQ Platter",
+        "TotalOrders": 188,
+        "GrossAmount": 150588
+      },
+      {
+        "SKU_NAME": "Kids Meal",
+        "TotalOrders": 145,
+        "GrossAmount": 214455
+      },
+      {
+        "SKU_NAME": "Midnight Deal",
+        "TotalOrders": 85,
+        "GrossAmount": 153425
+      },
+      {
+        "SKU_NAME": "Student Combo",
+        "TotalOrders": 56,
+        "GrossAmount": 75096
+      },
+      {
+        "SKU_NAME": "Lunch Box",
+        "TotalOrders": 37,
+        "GrossAmount": 55574
+      }
+    ],
+    [
+      {
+        "SKU_NAME": "Club Sandwich",
+        "TotalOrders": 257,
+        "GrossAmount": 224104
+      },
+      {
+        "SKU_NAME": "Chicken Tikka Pizza",
+        "TotalOrders": 223,
+        "GrossAmount": 440425
+      },
+      {
+        "SKU_NAME": "Beef Smash Burger",
+        "TotalOrders": 215,
+        "GrossAmount": 234780
+      },
+      {
+        "SKU_NAME": "Malai Boti",
+        "TotalOrders": 169,
+        "GrossAmount": 190801
+      },
+      {
+        "SKU_NAME": "Loaded Fries",
+        "TotalOrders": 158,
+        "GrossAmount": 244584
+      },
+      {
+        "SKU_NAME": "Chicken Wings",
+        "TotalOrders": 135,
+        "GrossAmount": 134325
+      },
+      {
+        "SKU_NAME": "Mint Margarita",
+        "TotalOrders": 132,
+        "GrossAmount": 196944
+      },
+      {
+        "SKU_NAME": "Zinger Burger",
+        "TotalOrders": 97,
+        "GrossAmount": 120765
+      },
+      {
+        "SKU_NAME": "Chocolate Lava Cake",
+        "TotalOrders": 79,
+        "GrossAmount": 158316
+      },
+      {
+        "SKU_NAME": "Cold Coffee",
+        "TotalOrders": 60,
+        "GrossAmount": 37200
+      }
+    ]
+  ]
+}

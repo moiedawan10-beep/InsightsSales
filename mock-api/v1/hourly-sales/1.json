@@ -1,0 +1,56 @@
+{
+  "Rows": [
+    {
+      "Hour": 11,
+      "NetSale": 7589
+    },
+    {
+      "Hour": 12,
+      "NetSale": 40306
+    },
+    {
+      "Hour": 13,
+      "NetSale": 23371
+    },
+    {
+      "Hour": 14,
+      "NetSale": 40337
+    },
+    {
+      "Hour": 15,
+      "NetSale": 19658
+    },
+    {
+      "Hour": 16,
+      "NetSale": 19336
+    },
+    {
+      "Hour": 17,
+      "NetSale": 33346
+    },
+    {
+      "Hour": 18,
+      "NetSale": 53981
+    },
+    {
+      "Hour": 19,
+      "NetSale": 16728
+    },
+    {
+      "Hour": 20,
+      "NetSale": 61668
+    },
+    {
+      "Hour": 21,
+      "NetSale": 21305
+    },
+    {
+      "Hour": 22,
+      "NetSale": 28972
+    },
+    {
+      "Hour": 23,
+      "NetSale": 38941
+    }
+  ]
+}

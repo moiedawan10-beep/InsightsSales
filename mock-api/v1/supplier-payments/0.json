@@ -1,0 +1,54 @@
+{
+  "Rows": [
+    {
+      "DateType": "Today",
+      "Supplier": "Fresh Farms",
+      "Payments": 67677
+    },
+    {
+      "DateType": "Today",
+      "Supplier": "City Meat Co",
+      "Payments": 19465
+    },
+    {
+      "DateType": "Today",
+      "Supplier": "Golden Bakery",
+      "Payments": 101167
+    },
+    {
+      "DateType": "Today",
+      "Supplier": "Dairy Fresh",
+      "Payments": 43474
+    },
+    {
+      "DateType": "Today",
+      "Supplier": "Spice Traders",
+      "Payments": 78364
+    },
+    {
+      "DateType": "MTD",
+      "Supplier": "Fresh Farms",
+      "Payments": 606239
+    },
+    {
+      "DateType": "MTD",
+      "Supplier": "City Meat Co",
+      "Payments": 264773
+    },
+    {
+      "DateType": "MTD",
+      "Supplier": "Golden Bakery",
+      "Payments": 638638
+    },
+    {
+      "DateType": "MTD",
+      "Supplier": "Dairy Fresh",
+      "Payments": 104565
+    },
+    {
+      "DateType": "MTD",
+      "Supplier": "Spice Traders",
+      "Payments": 522948
+    }
+  ]
+}

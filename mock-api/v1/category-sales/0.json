@@ -1,0 +1,64 @@
+{
+  "Rows": [
+    {
+      "DateTyp": "Today",
+      "CategoryName": "Burgers",
+      "GrossAmount": 122595
+    },
+    {
+      "DateTyp": "Today",
+      "CategoryName": "Pizza",
+      "GrossAmount": 103072
+    },
+    {
+      "DateTyp": "Today",
+      "CategoryName": "BBQ",
+      "GrossAmount": 120573
+    },
+    {
+      "DateTyp": "Today",
+      "CategoryName": "Beverages",
+      "GrossAmount": 113407
+    },
+    {
+      "DateTyp": "Today",
+      "CategoryName": "Desserts",
+      "GrossAmount": 46684
+    },
+    {
+      "DateTyp": "Today",
+      "CategoryName": "Sides",
+      "GrossAmount": 73550
+    },
+    {
+      "DateTyp": "MTD",
+      "CategoryName": "Burgers",
+      "GrossAmount": 597267
+    },
+    {
+      "DateTyp": "MTD",
+      "CategoryName": "Pizza",
+      "GrossAmount": 404356
+    },
+    {
+      "DateTyp": "MTD",
+      "CategoryName": "BBQ",
+      "GrossAmount": 488885
+    },
+    {
+      "DateTyp": "MTD",
+      "CategoryName": "Beverages",
+      "GrossAmount": 534154
+    },
+    {
+      "DateTyp": "MTD",
+      "CategoryName": "Desserts",
+      "GrossAmount": 594100
+    },
+    {
+      "DateTyp": "MTD",
+      "CategoryName": "Sides",
+      "GrossAmount": 750613
+    }
+  ]
+}

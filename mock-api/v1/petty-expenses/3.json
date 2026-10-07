@@ -1,0 +1,64 @@
+{
+  "Rows": [
+    {
+      "DateType": "Today",
+      "Head": "Utilities",
+      "ExpenseAmount": 1726
+    },
+    {
+      "DateType": "Today",
+      "Head": "Fuel",
+      "ExpenseAmount": 3372
+    },
+    {
+      "DateType": "Today",
+      "Head": "Repairs",
+      "ExpenseAmount": 846
+    },
+    {
+      "DateType": "Today",
+      "Head": "Cleaning",
+      "ExpenseAmount": 2887
+    },
+    {
+      "DateType": "Today",
+      "Head": "Staff Meals",
+      "ExpenseAmount": 2537
+    },
+    {
+      "DateType": "Today",
+      "Head": "Stationery",
+      "ExpenseAmount": 2831
+    },
+    {
+      "DateType": "MTD",
+      "Head": "Utilities",
+      "ExpenseAmount": 28489
+    },
+    {
+      "DateType": "MTD",
+      "Head": "Fuel",
+      "ExpenseAmount": 17086
+    },
+    {
+      "DateType": "MTD",
+      "Head": "Repairs",
+      "ExpenseAmount": 21952
+    },
+    {
+      "DateType": "MTD",
+      "Head": "Cleaning",
+      "ExpenseAmount": 9467
+    },
+    {
+      "DateType": "MTD",
+      "Head": "Staff Meals",
+      "ExpenseAmount": 21158
+    },
+    {
+      "DateType": "MTD",
+      "Head": "Stationery",
+      "ExpenseAmount": 28381
+    }
+  ]
+}

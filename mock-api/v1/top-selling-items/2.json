@@ -1,0 +1,108 @@
+{
+  "Rows": [
+    [
+      {
+        "SKU_NAME": "Lunch Box",
+        "TotalOrders": 326,
+        "GrossAmount": 534640
+      },
+      {
+        "SKU_NAME": "Sharing Deal",
+        "TotalOrders": 306,
+        "GrossAmount": 662490
+      },
+      {
+        "SKU_NAME": "BBQ Platter",
+        "TotalOrders": 250,
+        "GrossAmount": 245750
+      },
+      {
+        "SKU_NAME": "Burger Duo",
+        "TotalOrders": 214,
+        "GrossAmount": 462454
+      },
+      {
+        "SKU_NAME": "Pizza Party",
+        "TotalOrders": 182,
+        "GrossAmount": 394212
+      },
+      {
+        "SKU_NAME": "Family Feast",
+        "TotalOrders": 165,
+        "GrossAmount": 278520
+      },
+      {
+        "SKU_NAME": "Midnight Deal",
+        "TotalOrders": 143,
+        "GrossAmount": 288431
+      },
+      {
+        "SKU_NAME": "Student Combo",
+        "TotalOrders": 105,
+        "GrossAmount": 131460
+      },
+      {
+        "SKU_NAME": "Kids Meal",
+        "TotalOrders": 97,
+        "GrossAmount": 100007
+      },
+      {
+        "SKU_NAME": "Weekend Bucket",
+        "TotalOrders": 50,
+        "GrossAmount": 31100
+      }
+    ],
+    [
+      {
+        "SKU_NAME": "Chocolate Lava Cake",
+        "TotalOrders": 362,
+        "GrossAmount": 698298
+      },
+      {
+        "SKU_NAME": "Malai Boti",
+        "TotalOrders": 331,
+        "GrossAmount": 757990
+      },
+      {
+        "SKU_NAME": "Club Sandwich",
+        "TotalOrders": 271,
+        "GrossAmount": 465578
+      },
+      {
+        "SKU_NAME": "Cold Coffee",
+        "TotalOrders": 264,
+        "GrossAmount": 387288
+      },
+      {
+        "SKU_NAME": "Loaded Fries",
+        "TotalOrders": 194,
+        "GrossAmount": 265586
+      },
+      {
+        "SKU_NAME": "Chicken Wings",
+        "TotalOrders": 166,
+        "GrossAmount": 365200
+      },
+      {
+        "SKU_NAME": "Zinger Burger",
+        "TotalOrders": 159,
+        "GrossAmount": 284451
+      },
+      {
+        "SKU_NAME": "Mint Margarita",
+        "TotalOrders": 133,
+        "GrossAmount": 150955
+      },
+      {
+        "SKU_NAME": "Beef Smash Burger",
+        "TotalOrders": 94,
+        "GrossAmount": 159800
+      },
+      {
+        "SKU_NAME": "Chicken Tikka Pizza",
+        "TotalOrders": 87,
+        "GrossAmount": 167301
+      }
+    ]
+  ]
+}

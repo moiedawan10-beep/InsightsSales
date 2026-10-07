@@ -1,0 +1,19 @@
+{
+  "Rows": [
+    {
+      "ServiceType": "Dine In",
+      "NoOfOrders": 10,
+      "GrossAmount": 18160
+    },
+    {
+      "ServiceType": "Take Away",
+      "NoOfOrders": 8,
+      "GrossAmount": 19384
+    },
+    {
+      "ServiceType": "Delivery",
+      "NoOfOrders": 4,
+      "GrossAmount": 7260
+    }
+  ]
+}

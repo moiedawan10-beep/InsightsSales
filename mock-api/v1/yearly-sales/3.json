@@ -1,0 +1,24 @@
+{
+  "Rows": [
+    {
+      "Year": "2021",
+      "GrossSales": 40666241
+    },
+    {
+      "Year": "2022",
+      "GrossSales": 45248274
+    },
+    {
+      "Year": "2023",
+      "GrossSales": 53055949
+    },
+    {
+      "Year": "2024",
+      "GrossSales": 55422382
+    },
+    {
+      "Year": "2025",
+      "GrossSales": 60153079
+    }
+  ]
+}

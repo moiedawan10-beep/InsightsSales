@@ -1,0 +1,22 @@
+{
+  "Rows": [
+    {
+      "DateType": "Today",
+      "GrossSales": 147272,
+      "Discount": 7364,
+      "SalesTax": 23564,
+      "ServiceCharges": 5891,
+      "CreditCardSales": 63758,
+      "CashSales": 83514
+    },
+    {
+      "DateType": "MTD",
+      "GrossSales": 1168258,
+      "Discount": 58413,
+      "SalesTax": 186921,
+      "ServiceCharges": 46730,
+      "CreditCardSales": 631139,
+      "CashSales": 537119
+    }
+  ]
+}

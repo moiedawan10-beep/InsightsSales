@@ -1,0 +1,52 @@
+{
+  "Rows": [
+    {
+      "Month": "Jan",
+      "GrossSales": 4864378
+    },
+    {
+      "Month": "Feb",
+      "GrossSales": 3746817
+    },
+    {
+      "Month": "Mar",
+      "GrossSales": 5587673
+    },
+    {
+      "Month": "Apr",
+      "GrossSales": 4331996
+    },
+    {
+      "Month": "May",
+      "GrossSales": 3151635
+    },
+    {
+      "Month": "Jun",
+      "GrossSales": 5943876
+    },
+    {
+      "Month": "Jul",
+      "GrossSales": 5649172
+    },
+    {
+      "Month": "Aug",
+      "GrossSales": 5773520
+    },
+    {
+      "Month": "Sep",
+      "GrossSales": 5180811
+    },
+    {
+      "Month": "Oct",
+      "GrossSales": 5592134
+    },
+    {
+      "Month": "Nov",
+      "GrossSales": 4618316
+    },
+    {
+      "Month": "Dec",
+      "GrossSales": 5453511
+    }
+  ]
+}

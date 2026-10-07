@@ -1,0 +1,16 @@
+{
+  "Rows": [
+    {
+      "DISTRIBUTOR_ID": 1,
+      "DISTRIBUTOR_NAME": "Gulberg Branch"
+    },
+    {
+      "DISTRIBUTOR_ID": 2,
+      "DISTRIBUTOR_NAME": "DHA Phase 5"
+    },
+    {
+      "DISTRIBUTOR_ID": 3,
+      "DISTRIBUTOR_NAME": "Model Town"
+    }
+  ]
+}

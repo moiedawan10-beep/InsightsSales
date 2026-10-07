@@ -1,0 +1,40 @@
+{
+  "Rows": [
+    {
+      "DateType": "Today",
+      "ServiceType": "Dine In",
+      "NoOfInvoices": 103,
+      "NetAmount": 255646
+    },
+    {
+      "DateType": "Today",
+      "ServiceType": "Take Away",
+      "NoOfInvoices": 42,
+      "NetAmount": 94416
+    },
+    {
+      "DateType": "Today",
+      "ServiceType": "Delivery",
+      "NoOfInvoices": 96,
+      "NetAmount": 174816
+    },
+    {
+      "DateType": "MTD",
+      "ServiceType": "Dine In",
+      "NoOfInvoices": 630,
+      "NetAmount": 1520820
+    },
+    {
+      "DateType": "MTD",
+      "ServiceType": "Take Away",
+      "NoOfInvoices": 655,
+      "NetAmount": 1323755
+    },
+    {
+      "DateType": "MTD",
+      "ServiceType": "Delivery",
+      "NoOfInvoices": 336,
+      "NetAmount": 730464
+    }
+  ]
+}

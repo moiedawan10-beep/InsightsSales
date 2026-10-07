@@ -1,0 +1,16 @@
+{
+  "Rows": [
+    {
+      "DateType": "Today",
+      "Covers": 84,
+      "NoOfInvoices": 42,
+      "NetAmount": 143976
+    },
+    {
+      "DateType": "MTD",
+      "Covers": 744,
+      "NoOfInvoices": 186,
+      "NetAmount": 564510
+    }
+  ]
+}

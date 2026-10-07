@@ -1,0 +1,9 @@
+{
+  "Rows": [
+    {
+      "CustomerCode": "1234",
+      "ClientName": "Insights Demo Restaurant",
+      "ClientConnString": "demo-tenant-1"
+    }
+  ]
+}

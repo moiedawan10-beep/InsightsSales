@@ -1,0 +1,32 @@
+{
+  "Rows": [
+    {
+      "WeekDay": "Mon",
+      "GrossSales": 229247
+    },
+    {
+      "WeekDay": "Tue",
+      "GrossSales": 302721
+    },
+    {
+      "WeekDay": "Wed",
+      "GrossSales": 165959
+    },
+    {
+      "WeekDay": "Thu",
+      "GrossSales": 217286
+    },
+    {
+      "WeekDay": "Fri",
+      "GrossSales": 170587
+    },
+    {
+      "WeekDay": "Sat",
+      "GrossSales": 282559
+    },
+    {
+      "WeekDay": "Sun",
+      "GrossSales": 295096
+    }
+  ]
+}
